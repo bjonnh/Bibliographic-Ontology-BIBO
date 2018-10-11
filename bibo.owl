@@ -286,15 +286,7 @@ sources.</terms:description>
     <owl:ObjectProperty rdf:about="&terms;subject">
         <skos:scopeNote xml:lang="en">Used to describe the subject of a bibliographic resource.</skos:scopeNote>
     </owl:ObjectProperty>
-    
-
-
-    <!-- http://purl.org/dc/terms/title -->
-
-    <owl:ObjectProperty rdf:about="&terms;title">
-        <skos:scopeNote xml:lang="en">Used to describe the title of a bibliographic resource</skos:scopeNote>
-    </owl:ObjectProperty>
-    
+     
 
 
     <!-- http://purl.org/ontology/bibo/affirmedBy -->
